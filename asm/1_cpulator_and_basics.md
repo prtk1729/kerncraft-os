@@ -78,5 +78,5 @@ _start:
     - ![](../assets/images/after_sys_call.png)
     - After this, the OS reads 1 from r7 then maps from table and exits the progrma.
     - Even if we hit `Step-into`, no effect. 
-    > - [!NOTE]
-    > - The instruction `mov r2, r1`, is never reached. It's like something written after `return` stmt.
+> [!NOTE]
+> - The instruction `mov r2, r1`, is never reached. It's like something written after `return` stmt.
