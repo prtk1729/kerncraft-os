@@ -1,9 +1,9 @@
 ### Progress
 
-- [] ⌨️ (0:00:00) Introduction
-- [] ⌨️ (0:01:08) Intro and Setup
-- [] ⌨️ (0:03:33) Emulation and Memory Layout
-- [] ⌨️ (0:13:22) Your First Program
+- [x] ⌨️ (0:00:00) Introduction
+- [x] ⌨️ (0:01:08) Intro and Setup
+- [x] ⌨️ (0:03:33) Emulation and Memory Layout
+- [x] ⌨️ (0:13:22) Your First Program
 - [] ⌨️ (0:24:39) Addressing Modes
 - [] ⌨️ (0:37:10) Arithmetic and CPSR Flags
 - [] ⌨️ (0:48:38) Logical Operations
