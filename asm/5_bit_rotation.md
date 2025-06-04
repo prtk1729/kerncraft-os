@@ -41,3 +41,5 @@ _start:
 #### ror, [lor can be achieved using ror, so not present]
 
 `lor is 32-n times perform ror`
+
+
